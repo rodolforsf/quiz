@@ -45,7 +45,7 @@ const Page = () => {
             `${currentQuestion + 1} de ${questions.length} pergunta${questions.length === 1 ? '' : 's'}`
           } 
           {showResult &&
-            <button onClick={} className="px-3 py-2 rounded-md bg-blue-800 text-white">Reiniciar Quiz</button>
+            <button  className="px-3 py-2 rounded-md bg-blue-800 text-white">Reiniciar Quiz</button>
           }
 
         </div>
