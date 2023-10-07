@@ -7,8 +7,18 @@ export const questions: Question[] = [
             '1962',
             '1996',
             '1970',
-            '1940',
+            '1940'
         ],
-        answer: 0
-    }
+        answer: 2
+    },
+    {
+        question: ' Quem é o jogador que marcou mais gols em Copas do Mundo',
+        options: [
+            'Gabriel Jesus',
+            'Miroslav Klose',
+            'Ronaldo',
+            'Pelé'
+        ],
+        answer: 1
+    },
 ];
