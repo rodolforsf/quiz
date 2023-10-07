@@ -12,7 +12,7 @@ export const questions: Question[] = [
         answer: 2
     },
     {
-        question: ' Quem é o jogador que marcou mais gols em Copas do Mundo',
+        question: ' Quem é o jogador que marcou mais gols em Copas do Mundo?',
         options: [
             'Gabriel Jesus',
             'Miroslav Klose',
